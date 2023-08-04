@@ -1,5 +1,5 @@
 # Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px" height="35px">
-<p>I'm Shire, Backend developer from France <img src="https://raw.githubusercontent.com/ShireDev/ShireDev/main/fr.png" width="20"/>.</p>
+<p>I'm Lamn, Backend developer from France.</p>
 
 
 ## 🔧 I use
@@ -20,8 +20,8 @@
 </p>
 
 ## <img src="https://github.githubassets.com/images/modules/logos_page/Octocat.png" width="40"> My Github Stats:
-![Github Stats](https://github-readme-stats.vercel.app/api?username=shiredev&count_private=true&show_icons=true&include_all_commits=true&theme=radical&hide_border=true)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=lamndev&count_private=true&show_icons=true&include_all_commits=true&theme=radical&hide_border=true)
 <br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shiredev&hide=TeX&layout=compact&theme=radical&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lamndev&hide=TeX&layout=compact&theme=radical&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 <br>
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=shiredev&theme=radical&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=lamndev&theme=radical&hide_border=true)](https://git.io/streak-stats)
