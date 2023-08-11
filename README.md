@@ -1,6 +1,10 @@
 # Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px" height="35px">
 <p>I'm Lamn, Backend developer from France.</p>
 
+## 🎧 Spotify Playing
+<a href="https://spotify.com">
+  <img src="https://spotify-lamn.vercel.app/api?theme=dark&rainbow=true" alt="Current Spotify Song">
+</a>
 
 ## 🔧 I use
 
