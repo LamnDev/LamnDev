@@ -1,10 +1,9 @@
 # Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px" height="35px">
 <p>I'm Lamn, Backend developer from France.</p>
 
-## 🎧 Spotify Playing
-<a href="https://spotify.com">
-  <img src="https://spotify-lamn.vercel.app/api?theme=dark&rainbow=true" alt="Current Spotify Song">
-</a>
+## <img src="https://i.ibb.co/WGQ8GKb/discord-mark-blue.png" width="24" style="margin-right:4.5px"> Discord Presence
+
+[![Discord Presence](https://lanyard.cnrad.dev/api/780927632224288789?theme=dark&bg=161b22&animated=false&hideDiscrim=true&borderRadius=4.5px&idleMessage=Doing%20something%20else%20%F0%9F%91%80)](https://discord.com/users/:id)
 
 ## 🔧 I use
 
@@ -20,9 +19,9 @@
   <img alt="IntelliJ" src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" />
 </p>
 
-## <img src="https://github.githubassets.com/images/modules/logos_page/Octocat.png" width="40"> My Github Stats:
-![Github Stats](https://github-readme-stats.vercel.app/api?username=lamndev&count_private=true&show_icons=true&include_all_commits=true&theme=radical&hide_border=true)
+## <img src="https://github.githubassets.com/images/modules/logos_page/Octocat.png" width="40"> My Github Stats
+![Github Stats](https://github-readme-stats.vercel.app/api?username=lamndev&count_private=true&show_icons=true&include_all_commits=true&theme=github_dark&hide_border=true&bg_color=161b22)
 <br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lamndev&hide=TeX&layout=compact&theme=radical&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lamndev&hide=TeX&layout=compact&theme=github_dark&hide_border=true&bg_color=161b22)](https://github.com/anuraghazra/github-readme-stats)
 <br>
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=lamndev&theme=radical&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=lamndev&theme=transparent&hide_border=true&background=161b22&dates=ffffff)](https://git.io/streak-stats)
