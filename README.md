@@ -3,7 +3,7 @@
 
 ## <img src="https://i.ibb.co/WGQ8GKb/discord-mark-blue.png" width="24" style="margin-right:4.5px"> Discord Presence
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/780927632224288789?theme=dark&bg=161b22&animated=false&hideDiscrim=true&borderRadius=4.5px&idleMessage=Doing%20something%20else%20%F0%9F%91%80)](https://discord.com/users/:id)
+[![Discord Presence](https://lanyard.cnrad.dev/api/780927632224288789?theme=dark&bg=161b22&animated=false&hideDiscrim=true&borderRadius=4.5px&idleMessage=Doing%20something%20else%20%F0%9F%91%80)](https://lamndev.com)
 
 ## 🔧 I use
 
@@ -20,8 +20,8 @@
 </p>
 
 ## <img src="https://github.githubassets.com/images/modules/logos_page/Octocat.png" width="40"> My Github Stats
-![Github Stats](https://github-readme-stats.vercel.app/api?username=lamndev&count_private=true&show_icons=true&include_all_commits=true&theme=github_dark&hide_border=true&bg_color=161b22)
+[![Github Stats](https://github-readme-stats.vercel.app/api?username=lamndev&count_private=true&show_icons=true&include_all_commits=true&theme=github_dark&hide_border=true&bg_color=161b22)](https://lamndev.com)
 <br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lamndev&hide=TeX&layout=compact&theme=github_dark&hide_border=true&bg_color=161b22)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lamndev&hide=TeX&layout=compact&theme=github_dark&hide_border=true&bg_color=161b22)](https://lamndev.com)
 <br>
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=lamndev&theme=transparent&hide_border=true&background=161b22&dates=ffffff)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=lamndev&theme=transparent&hide_border=true&background=161b22&dates=ffffff)](https://lamndev.com)
