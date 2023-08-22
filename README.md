@@ -1,6 +1,9 @@
 # Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px" height="35px">
 <p>I'm Lamn, Backend developer from France.</p>
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 ## <img src="https://i.ibb.co/WGQ8GKb/discord-mark-blue.png" width="24" style="margin-right:4.5px"> Discord Presence
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/780927632224288789?theme=dark&bg=161b22&animated=false&hideDiscrim=true&borderRadius=4.5px&idleMessage=Doing%20something%20else%20%F0%9F%91%80)](https://lamndev.com)
