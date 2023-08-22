@@ -20,8 +20,8 @@
 </p>
 
 ## <img src="https://github.githubassets.com/images/modules/logos_page/Octocat.png" width="40"> My Github Stats
-[![Github Stats](https://github-readme-stats.vercel.app/api?username=lamndev&count_private=true&show_icons=true&include_all_commits=true&theme=github_dark&hide_border=true&bg_color=161b22)](https://lamndev.com)
+[![Github Stats](https://github-readme-stats-lamn.vercel.app/api?username=lamndev&count_private=true&show_icons=true&include_all_commits=true&theme=github_dark&hide_border=true&bg_color=161b22)](https://lamndev.com)
 <br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lamndev&hide=TeX&layout=compact&theme=github_dark&hide_border=true&bg_color=161b22)](https://lamndev.com)
+[![Top Langs](https://github-readme-stats-lamn.vercel.app/api/top-langs/?username=lamndev&hide=TeX&layout=compact&theme=github_dark&hide_border=true&bg_color=161b22)](https://lamndev.com)
 <br>
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=lamndev&theme=transparent&hide_border=true&background=161b22&dates=ffffff)](https://lamndev.com)
