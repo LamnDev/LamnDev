@@ -3,7 +3,7 @@
 
 ## <img src="https://i.ibb.co/WGQ8GKb/discord-mark-blue.png" width="24" style="margin-right:4.5px"> Discord Presence
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/1149377903298097293?theme=dark&bg=161b22&animated=false&hideDiscrim=true&borderRadius=4.5px&idleMessage=Doing%20something%20else%20%F0%9F%91%80)](https://lamndev.com)
+[![Discord Presence](https://lanyard.cnrad.dev/api/780927632224288789?theme=dark&bg=161b22&animated=false&hideDiscrim=true&borderRadius=4.5px&idleMessage=Doing%20something%20else%20%F0%9F%91%80)](https://lamndev.com)
 
 ## 🔧 I use
 
